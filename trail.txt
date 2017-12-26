@@ -1,1 +1,3 @@
  am writinng this to try smthng!
+just wanted to add smthng to newbranch
+et me see if i can commit d changes to the newbranch
